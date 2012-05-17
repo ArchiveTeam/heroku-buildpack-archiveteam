@@ -1,7 +1,7 @@
 Heroku buildpack: Archive Team
 ==============================
 
-This is a fun [Heroku buildpack](http://devcenter.heroku.com/articles/buildpacks) that comes with wget-arc and rsync.
+This is a fun [Heroku buildpack](http://devcenter.heroku.com/articles/buildpacks) that comes with wget-warc, rsync and redis-cli.
 
 Usage
 -----
